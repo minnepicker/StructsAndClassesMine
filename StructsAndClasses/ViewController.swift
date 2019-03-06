@@ -8,6 +8,7 @@
 
 import UIKit
 
+let test = "test"
 
 class ViewController: UIViewController {
 
